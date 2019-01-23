@@ -1,6 +1,6 @@
 #h1 I am a basic markdown page
 
-can I use <<strong>html tags</strong> ?
+can I use <strong>html tags</strong> ?
 
 I know I can do this
 ```ruby
